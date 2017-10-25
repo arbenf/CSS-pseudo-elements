@@ -1,0 +1,7 @@
+p::first-line {
+
+background-image: blue;
+}
+article::before{
+    content:url(https://static.pexels.com/photos/33109/fall-autumn-red-season.jpg);
+}
